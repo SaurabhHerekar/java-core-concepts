@@ -24,4 +24,37 @@ It is created to strengthen Java fundamentals and prepare for **technical interv
 ---
 
 ## 📂 Folder Structure
+java-core-concepts/
+├── Array/
+├── Collection/
+├── Logic_Codes/
+├── OOP/
+├── Exception_Handling/
+├── MultiThreading/
+├── String/
+├── Star_Pattern/
+└── README.md
+
+
+---
+
+## 🎯 Purpose of This Repository
+- Practice Core Java concepts
+- Improve problem-solving and logic building
+- Prepare for Java interviews
+- Build strong backend fundamentals
+
+---
+
+## 🚀 How to Run the Programs
+1. Clone the repository
+2. Open the project in any Java IDE (IntelliJ / Eclipse / VS Code)
+3. Compile and run individual `.java` files
+
+---
+
+## 👨‍💻 Author
+**Saurabh Herekar**  
+- GitHub: https://github.com/SaurabhHerekar
+
 
